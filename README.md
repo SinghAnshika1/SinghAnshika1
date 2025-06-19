@@ -70,9 +70,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/anshika-singh-22a538252/)
 
 
----
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=codeanshikasingh&theme=react-dark&hide_border=true)
 
 ---
 <p align="center">
