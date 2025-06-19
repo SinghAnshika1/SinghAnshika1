@@ -24,8 +24,8 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi-1.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/f0c7f8923ef8ad189fc79d33a4db16cf43f260d1a50ccd37b61da50d86947400/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d31313735363126666f726d61743d706e6726636f6c6f723d303030303030" alt="SQL width="40" height="40"/> 
+  <img src="https://camo.githubusercontent.com/57247cc4557712e0b8d125d531528701ab118d11396d24da837f34f94e877ed2/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d71596677707352584563706326666f726d61743d706e6726636f6c6f723d303030303030" alt="Power BI" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="40" height="40"/>
 </p>
@@ -42,8 +42,7 @@
 ### 🧠 Projects
 
 #### 📌 Ola Data Analyst Project
-> SQL + Excel + Power BI  
-🗓️ November 13, 2024  
+> SQL + Excel + Power BI   
 - End-to-End analysis of ride-sharing data  
 - Data extraction with SQL, data cleaning in Excel, visualization in Power BI  
 🔗 [Project Repository](https://github.com/codeanshikasingh/ola-data-analyst-project)
