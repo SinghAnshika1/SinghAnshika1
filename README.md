@@ -34,7 +34,7 @@
 ### 📊 Power BI Dashboards:
 | Ola Data Analyst Project | IPL Business Impact |
 |--------------------------|----------------------|
-| <img src="https://github.com/codeanshikasingh/ola-data-analyst-project/raw/main/ola-dashboard-preview.png" width="300"/> | <img src="https://github.com/codeanshikasingh/ipl-dashboard/raw/main/ipl-dashboard-preview.png" width="300"/> |
+| [<img src="https://raw.githubusercontent.com/SinghAnshika1/Ola-Data-Analytics-Project/refs/heads/main/Slide1.PNG" width="300"/>](https://app.powerbi.com/view?r=eyJrIjoiYzJhYzAzNzktOTZkZi00YzljLTk0NTItODJmY2UwZWZiNTFiIiwidCI6IjM0NGI0MjVhLTcyZWMtNDE2My05YTE1LWRjODkxY2Q2YmNhYiJ9&pageName=2e958de34c53720d6366) | [<img src="https://github.com/SinghAnshika1/IPL-Economic-Social-Impact-2025/blob/main/Slide2.PNG" width="300"/>](https://app.powerbi.com/view?r=eyJrIjoiMjk0ODliOWYtZDdiNS00OWUzLWI2OGUtNTU4NmU3YmU0YjEzIiwidCI6IjM0NGI0MjVhLTcyZWMtNDE2My05YTE1LWRjODkxY2Q2YmNhYiJ9&pageName=e1ff3a3d38ecaa55b494) |
 
 ---
 
@@ -44,7 +44,7 @@
 > SQL + Excel + Power BI   
 - End-to-End analysis of ride-sharing data  
 - Data extraction with SQL, data cleaning in Excel, visualization in Power BI  
-🔗 [Project Repository](https://github.com/codeanshikasingh/ola-data-analyst-project)
+🔗 [Project Repository](https://github.com/SinghAnshika1/Ola-Data-Analytics-Project)
 
 ---
 
@@ -52,7 +52,7 @@
 > SQL + Power BI + Storytelling  
 🎯 Balanced analysis of IPL's economic contribution and health implications of fantasy & tobacco ads  
 📦 Tools Used: Power BI, SQL, Excel, External Research  
-🔗 [Project Repository](https://github.com/codeanshikasingh/ipl-dashboard)
+🔗 [Project Repository](https://github.com/SinghAnshika1/IPL-Economic-Social-Impact-2025)
 
 ---
 
